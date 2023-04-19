@@ -11,7 +11,7 @@ Soy originario de **México**, actualmente tengo 16 años, desde que me adentre 
 | Ctrl + r | Nos abre un **buscador de comandos** según nuestro historial de uso, para así *reusarlos*. |
 | Alt + b | Nos permite **desplazarnos** hacia *atras* en la línea actual. |
 
-## Otros comandos que me parecieron utiles
+## 😎 Otros comandos que me parecieron utiles
 | Comando | Descripción |
 | ------- | ----------- |
 | rm | Nos permite **remover** un archivo de *determinado directorio*. |
