@@ -17,5 +17,5 @@ Soy originario de **México**, actualmente tengo 16 años, desde que me adentre 
 | Comando | Descripción |
 | ------- | ----------- |
 | pwd | Nos muestra en qué **ubicación** nos encontramos del **directorio**. |
-| cp | Nos permite **cambiar de directorio** al que le mencionemos que deseamos hacerlo. |
+| cd | Nos permite **cambiar de directorio** al que le mencionemos que deseamos hacerlo. |
 
