@@ -9,7 +9,7 @@ Soy originario de **México**, actualmente tengo 16 años, desde que me adentre 
 | ------- | ----------- |
 | Ctrl + u | *Borra la línea* que estamos utilizando, para darle un **nuevo uso**. |
 |Flecha arriba | La flecha arriba nos permite navegar entre comandos antes **ya utilizados**, y así, *reutilizarlos*. |
-| ls | Nos muestra en qué **archivo** nos encontramos del **directorio**. |
+| ls | Nos muestra el **contenido** al encontrarnos en un **directorio**. |
 | Ctrl + r | Nos abre un **buscador de comandos** según nuestro historial de uso, para así *reusarlos*. |
 | Alt + b | Nos permite **desplazarnos** hacia *atras* en la línea actual. |
 
